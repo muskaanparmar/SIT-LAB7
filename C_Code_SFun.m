@@ -1,6 +1,7 @@
  % C Code to S-function 
+ clc,clear;
 def=legacy_code('initialize')
-def.SFunctionName='muskaan3064';
+def.SFunctionName='muskaan';
 def.OutputFcnSpec='double y1=add_2(double u1, double u2)';
 def.HeaderFiles={'add_lib.h'};
 def.SourceFiles={'main.c'};
